@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to the vortex 🌌
+
+<!--The EigenVortex is a project involving the extraction and visualization of social networks in the BBC's <i>Doctor Who</i> and <i>Doctor Who</i>-adjacent media.-->
 
 <!--
 **EigenVortex/EigenVortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
