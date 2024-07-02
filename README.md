@@ -1,5 +1,7 @@
 ## Welcome to the vortex 🌌
 
+Currently under construction. More info coming soon.
+
 <!--The EigenVortex is a project involving the extraction and visualization of social networks in the BBC's <i>Doctor Who</i> and <i>Doctor Who</i>-adjacent media.-->
 
 <!--
